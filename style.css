@@ -1,0 +1,21 @@
+#checkboxes,#radio-btns {
+    display: flex;
+    align-items: center;
+}
+main{
+   
+    border: 1px solid black;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(250, 250, 250);
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+background-color: #a9d7d1;
+}
